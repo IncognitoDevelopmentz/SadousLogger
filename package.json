@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "gabe4278",
+  "author": "gabe4278 & IncognitoMode",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0"
