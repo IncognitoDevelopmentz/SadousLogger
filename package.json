@@ -1,6 +1,6 @@
 {
     "name": "@incognitodevelopmentz/sadouslogger",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Logger for Javascript",
     "main": "index.js",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "author": "gabe4278 & IncognitoMode",
     "repository": {
-        "url": "https://github.com/IncognitoDevelopmentz/sadouslogger.git"
+        "url": "https://github.com/incognitodevelopmentz/sadouslogger.git"
     },
     "license": "ISC",
     "publishConfig": {
@@ -17,5 +17,5 @@
     "dependencies": {
       "colors": "^1.4.0"
     }
-}
+\}
   
