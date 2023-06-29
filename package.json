@@ -1,5 +1,5 @@
 {
-    "name": "@IncognitoDevelopmentz/sadouslogger",
+    "name": "@incognitodevelopmentz/sadouslogger",
     "version": "1.0.0",
     "description": "Logger for Javascript",
     "main": "index.js",
@@ -17,5 +17,5 @@
     "dependencies": {
       "colors": "^1.4.0"
     }
-  }
+}
   
