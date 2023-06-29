@@ -11,6 +11,9 @@
         "url": "https://github.com/IncognitoDevelopmentz/sadouslogger.git"
     },
     "license": "ISC",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    },
     "dependencies": {
       "colors": "^1.4.0"
     }
